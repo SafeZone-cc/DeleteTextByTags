@@ -1,0 +1,4 @@
+word1=<Tag>
+word2=</Tag>
+word1=ID1
+word2=ID2
